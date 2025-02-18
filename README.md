@@ -44,6 +44,10 @@ This repository contains the frontend code for KittyCare. The project has been u
 
 ## Project Structure
 
+
+
+
+
 kittycare_frontend/
 ├── public/
 │   └── assets/                  # Contains images (google.png, apple.png, etc.)
@@ -62,6 +66,9 @@ kittycare_frontend/
 ├── README.md
 ├── package.json
 └── vite.config.ts
+
+
+
 
 ## Installation
 
