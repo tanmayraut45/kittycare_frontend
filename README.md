@@ -1,4 +1,4 @@
-Below is an updated README.md file that explains everything we’ve done for the frontend—integrating Google OAuth and implementing a pixel‑perfect login page per the Figma design. This README includes detailed instructions for cloning, setting up, and running the project, plus a demo video link placeholder. You can modify the video link and other details as needed.
+Below is an updated README.md file that explains everything we’ve done for the frontend—integrating Google OAuth and implementing a pixel‑perfect login page per the Figma design. This README includes detailed instructions for cloning, setting up, and running the project, plus a demo video link.
 
 # KittyCare Frontend
 
@@ -147,7 +147,7 @@ export default tseslint.config({
 Demo Video
 
 A short demo video showcasing the login page running on my device can be viewed here:
-Demo Video Link  (  )
+Demo Video Link  ( https://drive.google.com/drive/folders/18bs2Z-4X1hu_wIFKj1bISlbweElP31E_?usp=sharing )
 
 Contributing
 
